@@ -9,7 +9,7 @@ A project created for fog and edge module as part of MSc Cloud computing
   ```
   git init
   ```
-  * Add the Git repository of iFogSim2 as the `origin` remote:
+  * Add the Git repository of smartFogNuclearPowerPlant as the `origin` remote:
   ```
   git remote add origin  https://github.com/Neetis1/smartFogNuclearPowerPlant.git
   ```
